@@ -1,0 +1,6 @@
+{
+  "name": "Desain Rumah PRO",
+  "description": "Aplikasi desain denah rumah 2D interaktif dan visualisasi 3D real-time lengkap dengan perabotan, material kustom, pencahayaan, dan virtual walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

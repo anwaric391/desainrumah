@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Desain Rumah PRO</string>
+    <string name="title_activity_main">Desain Rumah PRO</string>
+    <string name="package_name">com.riohsm.desainrumahpro</string>
+    <string name="custom_url_scheme">com.riohsm.desainrumahpro</string>
+</resources>
